@@ -118,7 +118,7 @@ function App() {
 
   // render results
   return (
-    <div className="App">
+    <div className="SUN STATEMENT JEWELRY">
       {error}
       <div class="small-text free-shipping">Free Shipping over $200</div>
       <div class="small-section heading">
