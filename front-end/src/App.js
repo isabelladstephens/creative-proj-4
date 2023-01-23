@@ -79,7 +79,7 @@ function App() {
     }
   }
 
-  // fetch product data
+  // fetch product data  
   useEffect(() => {
     fetchProducts();
   },[]);
